@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: coffee4j
 email: foegen@swc.rwth-aachen.de
-description: 'Combinatorial Test and Fault Characterization by <a href="https://www.swc-rwth.de/">@swc-rwth</a>.'
+description: 'Combinatorial Test and Fault Characterization by <a href="https://www.swc.rwth-aachen.de/">@swc-rwth</a>.'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github:

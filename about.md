@@ -7,7 +7,7 @@ sidebar_sort_order: 4
 ---
 
 <div style="text-align: justify;">
-The <font style="font-family: 'Abril Fatface', serif;">coffee4j</font> framework is the result of research on combinatorial testing conducted by the <a href="https://www.swc-rwth.de">Research Group Software Construction (SWC)</a> of the RWTH Aachen University, Aachen, Germany. The published source code is licensed under the <a href="https://raw.githubusercontent.com/coffee4j/coffee4j/master/LICENSE.md">Eclipse public license (EPL 2.0)</a>.
+The <font style="font-family: 'Abril Fatface', serif;">coffee4j</font> framework is the result of research on combinatorial testing conducted by the <a href="https://www.swc.rwth-aachen.de">Research Group Software Construction (SWC)</a> of the RWTH Aachen University, Aachen, Germany. The published source code is licensed under the <a href="https://raw.githubusercontent.com/coffee4j/coffee4j/master/LICENSE.md">Eclipse public license (EPL 2.0)</a>.
 </div>
 
 
