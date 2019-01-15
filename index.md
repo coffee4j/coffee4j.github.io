@@ -16,9 +16,10 @@ sidebar_sort_order: 1
 
 <div>
 <font style="font-family: 'Abril Fatface', serif;">coffee4j</font> is a Java-based framework for combinatorial test input generation and fault characterization.
-It is based on a fast implementation of the well-known IPOG algorithm with support for constraint handling, robustness testing and fault characterization.  
+It is based on a fast implementation of the well-known IPOG algorithm and supports constraint handling, robustness testing and fault localization.  
 A JUnit 5 extension seamlessly integrates combinatorial test input generation, fault characterization  and automated test execution.
 </div>
+
 
 ## Quick Start
 
@@ -28,7 +29,7 @@ To quickly start, use the following Maven dependency in your project.
 <dependency>
   <groupId>de.rwth.swc.coffee4j</groupId>
   <artifactId>coffee4j-junit-jupiter</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <scope>test</scope>
 </dependency>
 {% endhighlight %}
@@ -48,7 +49,7 @@ class GreetingsTest {
         parameter("Title").values("Mr", "Mrs"),
         parameter("FirstName").values("John", "Jane"),
         parameter("LastName").values("Doo", "Foo")
-      ).build();
+    ).build();
   }
 
   @CombinatorialTest
