@@ -48,7 +48,7 @@ class GreetingsTest {
         parameter("Title").values("Mr", "Mrs"),
         parameter("FirstName").values("John", "Jane"),
         parameter("LastName").values("Doo", "Foo")
-    ).build();
+      ).build();
   }
 
   @CombinatorialTest
