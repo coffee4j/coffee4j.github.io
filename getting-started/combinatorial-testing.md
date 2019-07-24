@@ -82,7 +82,7 @@ private static InputParameterModel model() {
           parameter("Ping").values(10, 100, 1000),
           parameter("Speed").values(1, 10, 100, 1000))
       .exclusionConstraint(constrain("OS", "Browser")
-          .by((String os, String browser) -> !(os.equals("Windows") && browser.equals("Safari")))
+          .by((String os, String browser) -> !(os.equals("Linux") && browser.equals("Safari")))
       ).build();
 }
 

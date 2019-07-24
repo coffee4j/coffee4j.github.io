@@ -15,6 +15,7 @@ The <font style="font-family: 'Abril Fatface', serif;">coffee4j</font> framework
 
 - Joshua Bonn
 - Konrad Fögen [(corresponding)](mailto:foegen@swc.rwth-aachen.de)
+- Horst Lichter
 
 ## Publications
 

@@ -29,7 +29,7 @@ To quickly start, use the following Maven dependency in your project.
 <dependency>
   <groupId>de.rwth.swc.coffee4j</groupId>
   <artifactId>coffee4j-junit-jupiter</artifactId>
-  <version>1.0.3</version>
+  <version>1.0.5</version>
   <scope>test</scope>
 </dependency>
 {% endhighlight %}
