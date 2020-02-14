@@ -13,9 +13,25 @@ The <font style="font-family: 'Abril Fatface', serif;">coffee4j</font> framework
 
 ## Contributors
 
-- Joshua Bonn
-- Konrad Fögen [(corresponding)](mailto:foegen@swc.rwth-aachen.de)
-- Horst Lichter
+<div>
+  <div style="float: left; width:33.33%;">
+  <ul>
+  <li>Konrad Fögen <a href="mailto:foegen@swc.rwth-aachen.de">(corresponding)</a></li>
+  <li>Horst Lichter</li>
+  </ul>
+  </div>
+  <div style="float: left; width:50%;">
+   <ul>
+   <li>Lukas Bernwald</li>
+   <li>Joshua Bonn</li>
+   <li>Torben Friedrichs</li>
+   <li>Ivan Kirchev</li>
+   <li>Eric Maßelter</li>
+  </ul>
+  </div>
+</div>
+<br />
+<br />
 
 ## Publications
 
@@ -25,7 +41,6 @@ The <font style="font-family: 'Abril Fatface', serif;">coffee4j</font> framework
 - Konrad Fögen and Horst Lichter: **Semi-Automatic Repair of Over-Constrained Models for Combinatorial Robustness Testing.** In: 26th Asia-Pacific Software Engineering Conference (APSEC 2019). Putrajaya, Malaysia, December 2019. ([IEEE](https://ieeexplore.ieee.org/document/8945635), [PDF](https://www.swc.rwth-aachen.de/docs/2019_APSEC_Foegen.pdf), [Repository](https://github.com/coffee4j/apsec-2019))
 - Konrad Fögen and Horst Lichter: **Repairing Over-Constrained Models for Combinatorial Robustness Testing.** In: IEEE International Workshop of Combinatorial Testing and its Applications (CTA 2019). Sofia, Bulgaria, July 2019. ([IEEE](https://doi.org/10.1109/QRS-C.2019.00045), [PDF](https://www.swc.rwth-aachen.de/docs/2019-CTA-Foegen.pdf), [Repository](https://github.com/coffee4j/cta-2019))
 - Konrad Fögen and Horst Lichter: **Combinatorial Robustness Testing with Negative Test Cases.** In: 19th IEEE International Conference on Software Quality, Reliability, and Security (QRS 2019). Sofia, Bulgaria, July 2019. ([IEEE](https://doi.org/10.1109/QRS.2019.00018), [PDF](https://www.swc.rwth-aachen.de/docs/2019-QRS-Foegen.pdf), [Repository](https://github.com/coffee4j/qrs-2019))
-- Joshua Bonn, Konrad Fögen, Horst Lichter: **A Framework for Automated Combinatorial Test Generation, Execution, and Fault Characterization.** In: 8th International Workshop on Combinatorial Testing (IWCT 2019). Xi'an, China, April 2019. ([IEEE](https://doi.org/10.1109/ICSTW.2019.00057), [PDF](https://www2.swc.rwth-aachen.de/docs/2019-ICSTW-Foegen.pdf))
+- Joshua Bonn and Konrad Fögen and Horst Lichter: **A Framework for Automated Combinatorial Test Generation, Execution, and Fault Characterization.** In: 8th International Workshop on Combinatorial Testing (IWCT 2019). Xi'an, China, April 2019. ([IEEE](https://doi.org/10.1109/ICSTW.2019.00057), [PDF](https://www2.swc.rwth-aachen.de/docs/2019-ICSTW-Foegen.pdf))
 - Konrad Fögen and Horst Lichter: **A Case Study on Robustness Fault Characteristics for Combinatorial Testing - Results and Challenges.** In: 6th International Workshop on Quantitative Approaches to Software Quality (QuASoQ 2018) co-located with APSEC 2018. Nara, Japan, December 2018. ([CEUR-WS](http://ceur-ws.org/Vol-2273/QuASoQ-03.pdf))
 - Konrad Fögen and Horst Lichter: **Combinatorial Testing with Constraints for Negative Test Cases.** In: 7th International Workshop on Combinatorial Testing (IWCT 2018). Västerås, Sweden, April 2018. ([IEEE](https://dx.doi.org/10.1109/ICSTW.2018.00068), [PDF](https://www2.swc.rwth-aachen.de/docs/2018_ICSTW_Foegen.pdf))
-
