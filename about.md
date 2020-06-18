@@ -7,7 +7,7 @@ sidebar_sort_order: 4
 ---
 
 <div style="text-align: justify;">
-The <font style="font-family: 'Abril Fatface', serif;">coffee4j</font> framework is the result of research on combinatorial testing conducted by the <a href="https://www.swc.rwth-aachen.de">Research Group Software Construction (SWC)</a> of the RWTH Aachen University, Aachen, Germany. The published source code is licensed under the <a href="https://raw.githubusercontent.com/coffee4j/coffee4j/master/LICENSE.md">Eclipse public license (EPL 2.0)</a>.
+The <font style="font-family: 'Abril Fatface', serif;">coffee4j</font> framework is the result of research on combinatorial testing conducted by the <a href="https://www.swc.rwth-aachen.de">Research Group Software Construction (SWC)</a> of the RWTH Aachen University, Aachen, Germany. The published source code is licensed under the <a href="https://raw.githubusercontent.com/coffee4j/coffee4j/master/LICENSE.md">Eclipse Public License (EPL 2.0)</a>.
 </div>
 
 
@@ -35,8 +35,8 @@ The <font style="font-family: 'Abril Fatface', serif;">coffee4j</font> framework
 
 ## Publications
 
-- Konrad Fögen and Horst Lichter: **Generation of Invalid Test Inputs from Over-Constrained Test Models for Combinatorial Robustness Testing.** In: 9th International Workshop on Combinatorial Testing (IWCT 2020). Porto, Portugal, March 2020. (To be published, [Repository](https://github.com/coffee4j/iwct-2020))
-- Torben Friedrichs and Konrad Fögen and Horst Lichter: **A Comparison Infrastructure for Fault Characterization Algorithms.** In: 9th International Workshop on Combinatorial Testing (IWCT 2020). Porto, Portugal, March 2020. (To be published, [Repository](https://github.com/coffee4j/caffeine))
+- Konrad Fögen and Horst Lichter: **Generation of Invalid Test Inputs from Over-Constrained Test Models for Combinatorial Robustness Testing.** In: 9th International Workshop on Combinatorial Testing (IWCT 2020). Porto, Portugal, October 2020. (To be published, [Repository](https://github.com/coffee4j/iwct-2020))
+- Torben Friedrichs and Konrad Fögen and Horst Lichter: **A Comparison Infrastructure for Fault Characterization Algorithms.** In: 9th International Workshop on Combinatorial Testing (IWCT 2020). Porto, Portugal, October 2020. (To be published, [Repository](https://github.com/coffee4j/caffeine))
 - Konrad Fögen and Horst Lichter: **An Experiment to Compare Combinatorial Testing in the Presence of Invalid Values.** In: 7th International Workshop on Quantitative Approaches to Software Quality (QuASoQ 2019) co-located with APSEC 2019. Putrajaya, Malaysia, December 2019. ([CEUR-WS](http://ceur-ws.org/Vol-2511/QuASoQ-04.pdf), [PDF](https://www.swc.rwth-aachen.de/docs/2019_QUASOQ_Foegen.pdf), [Repository](https://github.com/coffee4j/quasoq-2019))
 - Konrad Fögen and Horst Lichter: **Semi-Automatic Repair of Over-Constrained Models for Combinatorial Robustness Testing.** In: 26th Asia-Pacific Software Engineering Conference (APSEC 2019). Putrajaya, Malaysia, December 2019. ([IEEE](https://ieeexplore.ieee.org/document/8945635), [PDF](https://www.swc.rwth-aachen.de/docs/2019_APSEC_Foegen.pdf), [Repository](https://github.com/coffee4j/apsec-2019))
 - Konrad Fögen and Horst Lichter: **Repairing Over-Constrained Models for Combinatorial Robustness Testing.** In: IEEE International Workshop of Combinatorial Testing and its Applications (CTA 2019). Sofia, Bulgaria, July 2019. ([IEEE](https://doi.org/10.1109/QRS-C.2019.00045), [PDF](https://www.swc.rwth-aachen.de/docs/2019-CTA-Foegen.pdf), [Repository](https://github.com/coffee4j/cta-2019))
