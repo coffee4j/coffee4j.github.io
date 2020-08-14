@@ -29,7 +29,7 @@ To quickly start, use the following Maven dependency in your project.
 <dependency>
   <groupId>de.rwth.swc.coffee4j</groupId>
   <artifactId>coffee4j-junit-jupiter</artifactId>
-  <version>1.0.6</version>
+  <version>1.0.5</version>
   <scope>test</scope>
 </dependency>
 {% endhighlight %}
@@ -54,9 +54,6 @@ class GreetingsTest {
 
   @CombinatorialTest
   @ModelFromMethod("model")
-  @Generator(
-    algorithms = {Ipog.class},
-      factories = {HardConstraintCheckerFactory.class})
   void testGreetings(String title, String firstName, String lastName) {
     System.out.println("Hello " + title + " " + firstName + " " + lastName);
   }
