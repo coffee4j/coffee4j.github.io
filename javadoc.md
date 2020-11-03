@@ -1,8 +1,8 @@
 ---
 title: Javadoc
 redirect_to:
-  - apidocs/1.0.5/
+  - apidocs/1.0.7/
 sidebar_link: true
-sidebar_sort_order: 3
+sidebar_sort_order: 4
 ---
 
