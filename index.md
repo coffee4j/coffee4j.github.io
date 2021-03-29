@@ -45,7 +45,7 @@ class GreetingsTest {
         return inputParameterModel("example-model")
                 .positiveTestingStrength(1)
                 .parameters(
-                        parameter("Title").values("Mr", "Mrs"),
+                        parameter("Daytime").values("morning", "evening"),
                         parameter("FirstName").values("John", "Jane"),
                         parameter("LastName").values("Doo", "Foo")
                 ).build();
@@ -54,10 +54,10 @@ class GreetingsTest {
     @CombinatorialTest(inputParameterModel = "model")
     @EnableGeneration(algorithms = { Ipog.class })
     void testGreetings(
-            @InputParameter("Title") String title,
+            @InputParameter("Daytime") String daytime,
             @InputParameter("FirstName") String firstName,
             @InputParameter("LastName") String lastName) {
-        System.out.println("Hello " + title + " " + firstName + " " + lastName);
+        System.out.println("Good " + daytime + " " + firstName + " " + lastName);
     }
 }
 {% endhighlight %}
