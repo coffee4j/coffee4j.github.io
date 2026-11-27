@@ -27,9 +27,9 @@ To quickly start, use the following Maven dependency in your project.
 
 {% highlight xml %}
 <dependency>
-  <groupId>de.rwth.swc.coffee4j</groupId>
+  <groupId>io.github.coffee4j</groupId>
   <artifactId>coffee4j-junit-engine</artifactId>
-  <version>1.0.8</version>
+  <version>2.0.0</version>
 </dependency>
 {% endhighlight %}
 
