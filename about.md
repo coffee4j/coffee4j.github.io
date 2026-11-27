@@ -7,31 +7,29 @@ sidebar_sort_order: 5
 ---
 
 <div style="text-align: justify;">
-The <font style="font-family: 'Abril Fatface', serif;">coffee4j</font> framework is the result of research on combinatorial testing conducted by the <a href="https://www.swc.rwth-aachen.de">Research Group Software Construction (SWC)</a> of the RWTH Aachen University, Aachen, Germany. The published source code is licensed under the <a href="https://raw.githubusercontent.com/coffee4j/coffee4j/master/LICENSE.md">Eclipse Public License (EPL 2.0)</a>.
+The <font style="font-family: 'Abril Fatface', serif;">coffee4j</font> framework is the result of research on combinatorial testing conducted by the <a href="https://www.swc.rwth-aachen.de">Research Group Software Construction (SWC)</a> of the RWTH Aachen University, Aachen, Germany. The development is being continued by <a href="https://foegen.fh-aachen.de">FH Aachen</a>. The published source code is licensed under the <a href="https://raw.githubusercontent.com/coffee4j/coffee4j/master/LICENSE.md">Eclipse Public License (EPL 2.0)</a>.
 </div>
 
 
 ## Contributors
 
-<div>
-  <div style="float: left; width:33.33%;">
-  <ul>
-  <li>Konrad Fögen <a href="mailto:foegen@swc.rwth-aachen.de">(corresponding)</a></li>
-  <li>Horst Lichter</li>
-  </ul>
+<div style="display: flex; flex-wrap: wrap; text-align: left;">
+  <div style="width: 33.33%; min-width: 220px;">
+    <ul>
+      <li>Konrad Fögen <a href="mailto:foegen@swc.rwth-aachen.de">(corresponding)</a></li>
+      <li>Horst Lichter</li>
+    </ul>
   </div>
-  <div style="float: left; width:50%;">
-   <ul>
-   <li>Lukas Bernwald</li>
-   <li>Joshua Bonn</li>
-   <li>Torben Friedrichs</li>
-   <li>Ivan Kirchev</li>
-   <li>Eric Maßelter</li>
-  </ul>
+  <div style="width: 50%; min-width: 220px;">
+    <ul>
+      <li>Lukas Bernwald</li>
+      <li>Joshua Bonn</li>
+      <li>Torben Friedrichs</li>
+      <li>Ivan Kirchev</li>
+      <li>Eric Maßelter</li>
+    </ul>
   </div>
 </div>
-<br />
-<br />
 
 ## Publications
 
